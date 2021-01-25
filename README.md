@@ -1,6 +1,9 @@
 # MAX30100-HEART-RATE-PROJECT
 
 
+## ESKISEHIR TECHNICAL UNIVERSITY - EEM449 EMBEDDED SYSTEM DESIGN FINAL PROJECT ##
+
+
 Please watch the presentation video for a better review.
 
 
